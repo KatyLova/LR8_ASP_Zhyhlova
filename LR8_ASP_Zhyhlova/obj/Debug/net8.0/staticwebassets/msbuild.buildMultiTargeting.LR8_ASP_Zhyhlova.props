@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LR8_ASP_Zhyhlova.props" />
+</Project>
